@@ -30,6 +30,9 @@ Exploring **automation frameworks** and **deep learning applications** in softwa
 🔗 GitHub: [ShrutiTibhe](https://github.com/ShrutiTibhe)  
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiTibhe&theme=transparent&hide_border=true" width="500"/>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
